@@ -1,2 +1,2 @@
-function imgchange2(){document.getElementById('logo2').src='./image/vanitoy2.jpg';}
-function mes2(){document.getElementById('logo2').src='./image/vanitoy.jpg';}
+function imgchange11(){document.getElementById('logo11').src='./image/dib2.jpg';}
+function mes11(){document.getElementById('logo11').src='./image/dib.jpg';}
